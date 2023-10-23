@@ -1,0 +1,2 @@
+# Marketing
+Landing page, adaptive
